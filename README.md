@@ -50,13 +50,13 @@ This project demonstrates how to perform **CRUD operations** (Create, Read, Upda
 
 ## ▶️ How to Run
 1. Save the file as
-``bash
+```bash
     EmployeeDBApp.java.
 2. Compile:
-``bash
+```bash
 javac -cp ".;mysql-connector-j-8.0.33.jar" EmployeeDBApp.java
 3. Run:
-``bash
+```bash
 java -cp ".;mysql-connector-j-8.0.33.jar" EmployeeDBApp
 
 
