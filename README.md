@@ -52,9 +52,10 @@ This project demonstrates how to perform **CRUD operations** (Create, Read, Upda
 1. Save the file as `EmployeeDBApp.java.`
 2. Compile:
    ```bash
-javac -cp ".;mysql-connector-j-8.0.33.jar" EmployeeDBApp.java
+   javac -cp ".;mysql-connector-j-8.0.33.jar" EmployeeDBApp.java
 3. Run:
    ```bash
-java -cp ".;mysql-connector-j-8.0.33.jar" EmployeeDBApp
+   java -cp ".;mysql-connector-j-8.0.33.jar" EmployeeDBApp
+
 
 (For PostgreSQL, replace MySQL connector with PostgreSQL JDBC driver.)
