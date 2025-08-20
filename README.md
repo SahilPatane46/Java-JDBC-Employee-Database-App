@@ -47,6 +47,9 @@ This project demonstrates how to perform **CRUD operations** (Create, Read, Upda
        salary DOUBLE
    );
 3. Download MySQL JDBC driver (mysql-connector-j.jar) and add it to your classpath.
+4. Use Your MySQL Username & Password From your MySQL table:
+   Username = root
+   Password = (the one you set in MySQL Workbench when installing)
 
 ## ▶️ How to Run
 1. Save the file as `EmployeeDBApp.java.`
